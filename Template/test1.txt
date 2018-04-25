@@ -1,0 +1,6 @@
+INSERT INTO testtable1 VALUES (@saigai@,1,2,3,4,5,@saigai@)
+
+INSERT INTO testtable1 VALUES (@dosya@,1,2,3,4,5,@dosya@)
+
+INSERT INTO testtable1 VALUES (@souon@,1,2,3,4,5,@souon@)
+
